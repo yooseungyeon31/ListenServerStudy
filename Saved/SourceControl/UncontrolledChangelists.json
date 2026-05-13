@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Map/Map.umap",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/BluePrints/BP_Player.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/BluePrints/BP_GameMode.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/BluePrints/BP_PlayerController.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/Action/IA_Move.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/IMC_Default.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/IMC_Player.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/Action/IA_Look.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Animation/BS_Walk.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Animation/ABP_Player.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/Action/IA_Jump.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/EState.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Animation/AM_Attack.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/BluePrints/BP_Obstacle.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/Action/IA_Crouch.uasset",
+				"C:/Users/USER/Desktop/212/ListenServerStudy/Content/Input/Action/IA_Attack.uasset"
+			]
+		}
+	]
+}
