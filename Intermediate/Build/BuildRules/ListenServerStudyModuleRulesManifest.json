@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\ListenServerStudy\\Intermediate\\Source\\ListenServerStudy.Build.cs",
+		"C:\\Unreal\\ListenServerStudy\\Intermediate\\Source\\ListenServerStudy.Target.cs",
+		"C:\\Unreal\\ListenServerStudy\\Intermediate\\Source\\ListenServerStudyClient.Target.cs",
+		"C:\\Unreal\\ListenServerStudy\\Intermediate\\Source\\ListenServerStudyEditor.Target.cs",
+		"C:\\Unreal\\ListenServerStudy\\Intermediate\\Source\\ListenServerStudyServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
